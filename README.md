@@ -32,7 +32,7 @@ IE10<br>
 <li>У картинок должны быть прописаны осмысленные alt.</li>
 <li>Нельзя задавать визуальное отображение элементов через js: $('.element').css(color,"#f00"). Это должно делаться через установку/смену классов. Также запрещено использовать инлайновые стили в атрибуте style</li>
 <li>Лого должно вести на главную страницу</li>
-<li>Скорость сайта должана быть оптимизированна согласно советам <a href="https://developers.google.com/speed/pagespeed/insights/?hl=ru" target="_blank">Google PageSpeed Insights</a></li>
+<li>Скорость сайта должна быть оптимизированна согласно советам <a href="https://developers.google.com/speed/pagespeed/insights/?hl=ru" target="_blank">Google PageSpeed Insights</a></li>
 <li>Не должно быть js-ошибок! После выхода в продакшн удалить все console.log</li>
 <li>Ссылки на чужие сайты должны быть с target="_blank" и rel="nofollow noopener"</li>
 <li>Изображения должны масштабироваться в зависимости от размера окна (max-width:100%; height:auto;)</li>
